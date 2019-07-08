@@ -1,4 +1,5 @@
 # alpha-beta-pruning-minimax
+### Description
 An implementation of alpha beta pruning to reduce the number of nodes a minimax searching algorithm visits.
 
 The alpha beta pruning implementation is the method alphabeta() in TakeStones.java.
