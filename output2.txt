@@ -1,0 +1,72 @@
+4
+3 5 6 7 
+alpha: -1000	beta: 1000
+6
+3 4 5 7 
+alpha: 100	beta: 1000
+2
+3 4 5 6 7 
+alpha: 100	beta: 1000
+6
+2 4 5 7 
+alpha: -1000	beta: 100
+3
+2 4 5 6 7 
+alpha: -6	beta: 100
+2
+3 5 6 7 
+alpha: -1000	beta: -6
+4
+2 3 5 6 7 
+alpha: -1000	beta: -6
+5
+2 3 4 6 7 
+alpha: -1000	beta: -6
+2
+3 4 5 7 
+alpha: -1000	beta: -100
+6
+2 3 4 5 7 
+alpha: -1000	beta: -100
+7
+2 3 4 5 6 
+alpha: -1000	beta: -100
+1
+2 3 4 5 6 7 
+alpha: -1000	beta: -100
+2
+4 5 6 7 
+alpha: -100	beta: 1000
+4
+2 5 6 7 
+alpha: -7	beta: 1000
+5
+2 4 6 7 
+alpha: -6	beta: 1000
+6
+2 4 5 7 
+alpha: 100	beta: 1000
+7
+2 4 5 6 
+alpha: 100	beta: 1000
+1
+2 4 5 6 7 
+alpha: 100	beta: 1000
+1
+2 4 5 7 
+alpha: -100	beta: 100
+2
+1 4 5 7 
+alpha: -5	beta: 100
+6
+1 2 4 5 7 
+alpha: 0	beta: 100
+3
+1 2 4 5 6 7 
+alpha: -100	beta: 0
+-1
+1 2 3 4 5 6 7 
+alpha: 0	beta: 1000
+NEXT MOVE
+3
+1 2 4 5 6 7 
