@@ -5,6 +5,8 @@ An implementation of alpha beta pruning to reduce the number of nodes a minimax 
 The alpha beta pruning implementation is the method alphabeta() in TakeStones.java.
 The minimax search implementation is the method get_next_move() is in TakeStones.java.
 
+### Usage
+
 Usage: `java TakeStones [0] [1] [...] [n]`
  
 [0] = total number of stones
